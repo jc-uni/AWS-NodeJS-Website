@@ -1,0 +1,3 @@
+C:\Users\jonas\source\repos\NodejsAWS\obj\Debug\NodejsAWS.njsproj.AssemblyReference.cache
+C:\Users\jonas\source\repos\NodejsAWS\obj\Debug\NodejsAWS.njsproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\NodejsAWS\bin\Microsoft.NodejsTools.WebRole.dll
