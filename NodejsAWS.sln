@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsAWS", "NodejsAWS.njsproj", "{19C9CD97-A0EC-4A17-B001-91EAC754A3C2}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsAWS", "NodejsAWS.njsproj", "{B3EE299C-3EF6-4928-AB8A-CE73784C3FDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{19C9CD97-A0EC-4A17-B001-91EAC754A3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19C9CD97-A0EC-4A17-B001-91EAC754A3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19C9CD97-A0EC-4A17-B001-91EAC754A3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19C9CD97-A0EC-4A17-B001-91EAC754A3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EE299C-3EF6-4928-AB8A-CE73784C3FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EE299C-3EF6-4928-AB8A-CE73784C3FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EE299C-3EF6-4928-AB8A-CE73784C3FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EE299C-3EF6-4928-AB8A-CE73784C3FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F33EB2AA-02EA-43C7-8036-7DFEAFFF36C9}
+		SolutionGuid = {E67597A6-2869-4604-95A6-4576104C3B4E}
 	EndGlobalSection
 EndGlobal
